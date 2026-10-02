@@ -200,6 +200,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) – Defend your castle and battle with other players.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
+* [@CavegramBot](https://telegram.me/CavegramBot) – Drawing games for group chats: Telephone, Squiggle and Monster. Everyone plays privately with the bot, results are shown in the group chat. Free, no ads, 11 languages.
 
 ### Bot Development
 
