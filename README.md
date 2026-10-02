@@ -189,6 +189,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 ### Games
 
 * [@awesomebot](https://telegram.me/awesomebot) – Simple HTML5 games. All games are open source.
+* [@CavegramBot](https://telegram.me/CavegramBot) – Free, ad-free drawing games for group chats (Telephone, Squiggle and Monster) played privately with the bot, with results shown in the chat.
 * [@gamebot](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming.
 * [@gamee](https://telegram.me/gamee) – Official telegram bot for HTML5 gaming of [Gamee](https://www.gamee.com/) platform.
 * [@GamesHDBot](https://telegram.me/GamesHDBot) – Provides HTML5 high quality games.
@@ -200,7 +201,6 @@ Challenge your friends in MULTIPLAYER mode!
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) – Defend your castle and battle with other players.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
-* [@CavegramBot](https://telegram.me/CavegramBot) – Drawing games for group chats: Telephone, Squiggle and Monster. Everyone plays privately with the bot, results are shown in the group chat. Free, no ads, 11 languages.
 
 ### Bot Development
 
